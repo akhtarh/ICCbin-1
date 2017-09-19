@@ -1,7 +1,7 @@
-5150c67717fce0a061e18d78aeba8905 *DESCRIPTION
-e7cd8dc3fe61db9af8728940a83e5df0 *NAMESPACE
-a97f7c480ae71a448aef6c285b443510 *R/iccbin.R
-fd69c20ffff8a1227cf1fa9a1d1ec249 *R/rcbin.R
+52e01faae7713b46f181438a4c389bb6 *DESCRIPTION
+8c7d1a9aff8f78a9a51e1ea02e57e1eb *NAMESPACE
+c15b1c82bf9d5f53c6a5c119c9f4f169 *R/iccbin.R
+8b8e831130217200c5a4e39e774a51e0 *R/rcbin.R
 fce8c1e56eb944a6d7ce4955eade87a9 *README.md
-c1fba69cd15f3fe77d9eed6db53d538f *man/iccbin.Rd
-1a604da860a973c2eeb51e3cfb85fad5 *man/rcbin.Rd
+80b11b5dbafd7f2478ba575289f8148c *man/iccbin.Rd
+ebf3b627731b0da0d351e3856f4f2023 *man/rcbin.Rd

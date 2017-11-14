@@ -1,6 +1,6 @@
 Package: ICCbin
-Version: 1.1
-Date: 2017-09-19
+Version: 1.1.1
+Date: 2017-11-13
 Type: Package
 Title: Facilitates Clustered Binary Data Generation, and Estimation of
         Intracluster Correlation Coefficient (ICC) for Binary Data
@@ -20,6 +20,6 @@ BugReports: https://github.com/akhtarh/ICCbin/issues
 LazyData: TRUE
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2017-09-19 20:42:13 UTC; AKHTAR
+Packaged: 2017-11-14 02:51:53 UTC; AKHTAR
 Repository: CRAN
-Date/Publication: 2017-09-19 20:54:19 UTC
+Date/Publication: 2017-11-14 04:20:56 UTC
